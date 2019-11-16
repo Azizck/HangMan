@@ -1,0 +1,174 @@
+
+body{
+	background-color: #363736;
+        
+}
+
+#groupinfo{
+	width:25%;
+	color:white;
+	margin:2%;
+	display:inline-block;
+}
+#groupinfo >div{
+	margin:1%;
+}
+
+
+#desc{
+	color:white;
+	margin: 2%;
+	position:absolute;
+	display:inline-block;
+}
+#desc > li{
+	
+	padding:2%;
+}
+
+#loginBox{
+    position: absolute;
+    top: 525px;
+    left: 1000px;
+    width: 400px;
+    height: 500px;
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+    background-color: whitesmoke;
+}
+
+#loginBox2{
+    position: absolute;
+    top: 525px;
+    left: 1360px;
+    width: 40px;
+    height: 500px;
+    border: 2px solid #76ae40;
+    border-radius: 2px;
+    background-color: #76ae40;
+}
+
+#loginTitle{
+    position: absolute;
+    top: 550px;
+    left: 1030px;
+    color:#76ae40;
+    font-size:35px;
+}
+#email
+{
+   position: absolute;
+    top: 865px;
+    left: 1030px;
+    color:#76ae40;
+    font-size:20px;
+}
+#username{
+    position: absolute;
+    top: 640px;
+    left: 1030px;
+    color:#76ae40;
+    font-size:20px;
+}
+
+
+#password{
+    position: absolute;
+    top: 720px;
+    left: 1030px;
+    color:#76ae40;
+    font-size:20px;
+}
+#password2
+{
+    position: absolute;
+    top: 790px;
+    left: 1030px;
+    color:#76ae40;
+    font-size:20px;
+}
+
+#form{
+    position: absolute;
+    top: 225px;
+    left: 400px;
+    width: 400px;
+    height: 400px;
+}
+
+#fusername{
+    position: absolute;
+    top: 445px;
+    left: 625px;
+    width: 300px;
+    height: 25px;
+    
+    border-radius: 4px;
+}
+
+#fpassword{
+    position: absolute;
+    top: 525px;
+    left: 625px;
+    width: 300px;
+    height: 25px;
+   
+    border-radius: 4px;
+}
+#fpassword2
+{
+    position: absolute;
+    top: 600px;
+    left: 625px;
+    width: 300px;
+    height: 25px;
+    
+    border-radius: 4px;
+}
+#femail2
+{
+    position: absolute;
+    top: 0px;
+    left: 625px;
+    width: 300px;
+    height: 25px;
+    
+    border-radius: 4px;
+}
+#email2
+{
+    position: absolute;
+    top: 665px;
+    left: 0px;
+    width: 300px;
+    height: 25px;
+    
+    border-radius: 4px;
+}
+
+
+
+
+
+#submitter{
+    position: absolute;
+    top: 750px;
+    left: 625px;
+    width: 305px;
+    height: 35px;
+    background-color: #76ae40;
+    border-radius: 4px;
+    border-color: #76ae40;
+    
+}
+
+
+#con{
+
+
+    position: fixed;
+    /* left: -38em; */
+    bottom: 64em;
+    right: 116em;
+}
+
